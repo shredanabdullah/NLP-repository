@@ -1,0 +1,46 @@
+
+Student 1: shredan abdullah kamal
+Student 2: nada osman abdelaziz
+
+Q1:
+
+The number 243 printed above represents the total number of unique words or entities
+ for which word embeddings are available in the 'word_embeddings' dataset.
+
+
+Q2:
+
+The (300,) printed above represents the dimensionality of the word embeddings for the word 'Spain' in the 'word_embeddings' dataset. 
+In this case, the word embedding for 'Spain' is a vector with 300 dimensions.
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626821994781494
+
+Q3:
+
+Yes
+
+
+Q4:
+
+Yes, because the similarity is close to 1 means that the words Egypt (country2) and Cairo (city2)
+are similar to each other.
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+the words that appear in similar contexts are closer to each other clustered together.
+where this model looks at the context only it does not take into account the meaning of the words.
+
